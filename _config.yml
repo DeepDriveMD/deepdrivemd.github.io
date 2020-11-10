@@ -23,6 +23,7 @@ collections:
     output: false
 plugins:
   - jekyll-redirect-from
+  - jekyll-scholar
 # Build settings
 #markdown: kramdown
 #theme: minima
@@ -46,3 +47,6 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+scholar:
+  source: _bibliography

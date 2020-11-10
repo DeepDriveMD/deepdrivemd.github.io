@@ -29,3 +29,5 @@ end
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 gem "jekyll-redirect-from", "~> 0.16.0"
+
+gem 'jekyll-scholar', group: :jekyll_plugins
