@@ -1,6 +1,6 @@
 # deepdrivemd.github.io
 
-This repository hosts the GitHub Pages website https://deepdrivemd.github.io/ with information on DeepDriveMD: Deep-Learning Driven Adaptive Molecular Simulations for Protein Folding.
+This repository hosts the GitHub Pages website https://deepdrivemd.github.io/ with information on DeepDriveMD: Deep-Learning Driven Adaptive Molecular Simulations.
 
 The repository is organized into three branches.
 1. `main`: Stores the raw HTML, JS and content for the website
