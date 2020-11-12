@@ -15,7 +15,7 @@ To update the website please follow these instructions:
 4. Once the changes on the develop branch are approved, open a pull request to merge develop into the source branch
 5. After merge, checkout the source branch: `git checkout source`
 6. Get the latest changes to source: `git pull`
-7. Build the website `_site/` directory: `bundle exec jekyll serve`
+7. Build the website `_site/` directory: `bundle exec jekyll build`
 8. Make a temporary copy of the `_site/` directory outside of the repository: `cp -r _site ..`
 9. Checkout the main branch: `git checkout main`
 10. CAUTION: make sure you are in the repository directory! Update the content: `rm -r * && cp -r ../_site/* .`
